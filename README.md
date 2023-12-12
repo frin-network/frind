@@ -5,7 +5,7 @@ Frind
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://choosealicense.com/licenses/isc/)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/frin-network/frind/)
 
-frind is the reference full node frin implementation written in Go (golang).
+Frind is the reference full node frin implementation written in Go (golang).
 
 ## What is frin
 
