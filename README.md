@@ -1,15 +1,15 @@
 
-frind
+Frind
 ====
 
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://choosealicense.com/licenses/isc/)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/frin-network/frind/)
 
-frind is the reference full node frin implementation written in Go (golang).
+Frind is the reference full node frin implementation written in Go (golang).
 
-## What is frin
+## What is Frin
 
-frin is a fork of Kaspa with an ASIC resistance implementation
+Frin is a fork of Kaspa with an ASIC resistance implementation
 Kaspa is an attempt at a proof-of-work cryptocurrency with instant confirmations and sub-second block times. It is based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf), a generalization of Nakamoto consensus.
 
 ## Requirements
